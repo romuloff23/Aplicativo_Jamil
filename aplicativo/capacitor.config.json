@@ -1,0 +1,25 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "jamil",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {
+    "preferences": {
+      "ScrollEnabled": "false",
+      "BackupWebStorage": "none",
+      "SplashMaintainAspectRatio": "true",
+      "FadeSplashScreenDuration": "300",
+      "SplashShowOnlyFirstTime": "false",
+      "SplashScreen": "screen",
+      "SplashScreenDelay": "5000",
+      "AndroidPersistentFileLocation": "Compatibility",
+      "orientation": "portrait"
+    }
+  }
+}

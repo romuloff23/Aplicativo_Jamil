@@ -1,0 +1,54 @@
+@font-face {
+  font-family: Lobster;
+  src: url('/assets/fontes/Lobster-Regular.ttf');
+}
+
+//Lobster-Regular.ttf
+.backg{
+  --background: url("/assets/img/backgraud.jpeg")  100% 100%;
+  
+}
+.icone{
+  
+  margin-top: 0px;
+  padding-top: 0px;
+  color: #fff !important; 
+  p{
+    margin: 0px !important;
+    text-align: center;
+  }
+}
+.fundo{
+  background: url("/assets/img/fundo.jpeg") no-repeat 100% 100% ;
+}
+
+h3{
+  font-size: 25px;
+  font-family: Lobster;
+  color: #ffffff;
+}
+
+//
+.rodape{
+  background-color:#648ae2;
+  text-align: center;
+  margin: 0px;
+  align-items: center;
+  padding-top: 3px;
+  p{
+    padding: 3px;
+    color: #fff;
+  }
+}
+
+.subrodape{
+  margin: 0px;
+  background-color: #f6cd25;
+  padding: 5px;
+  align-items: center;
+  p{
+    text-align: center;
+    color: #fff;
+    align-items: center;
+  }
+}
